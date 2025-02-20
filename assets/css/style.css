@@ -101,7 +101,11 @@ h2 {
 #fav-games .card {
     border: none;
 }
+/* Events sectoin */
 
+#events .table-light * {
+    background-color: transparent;
+}
 /* Footer / contact */
 
 #contact {
@@ -137,6 +141,7 @@ h2 {
 #contact .table-dark * {
     background-color: transparent;
 }
+
 
 /* grid visualisation CSS for testing */
 
